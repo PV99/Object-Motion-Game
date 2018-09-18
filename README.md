@@ -1,5 +1,5 @@
-# PV99.github.io-
-Open CV Object Tracking Game 
+#Open CV Object Tracking Game 
+
 
 High Level: 
 Teddy Bear Run is a game based on color tracking of physical, player-controlled objects. 
